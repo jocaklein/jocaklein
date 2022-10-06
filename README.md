@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @jocaklein
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<img src="https://user-images.githubusercontent.com/59835970/194390438-f577f447-6ed0-47f2-a3de-093bca173e7c.jpeg" height="150" align=center>
 
-<!---
-jocaklein/jocaklein is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+- 📚 Electrical Engineering Student;
+- 👀 Interested in Web Development, Front-End and Back-End;
+- 🌱 In constant development.
