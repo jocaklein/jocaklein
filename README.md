@@ -28,7 +28,7 @@
 
 <div align="center">
           <h2 align="left">Contact</h2>
-          <a href="linkedin.com/in/joão-pedro-klein-2a9541178/" target="_blank" ><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="50"></a>
+          <a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-klein-2a9541178/" target="_blank" ><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="50"></a>
          <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=DmwnWrRtsfkgnZDFNLlwhWQbPFFzCMMdDjffpKLVQCqLlGTjdFdSWRMgxKXZXPbWqvBxmDMFhpqv" target="_blank" ><img src="https://user-images.githubusercontent.com/59835970/194415308-0523a4ff-951e-4be3-b9cc-62b5b5798182.svg" height="50"></a>
 
 </div>
